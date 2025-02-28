@@ -1,6 +1,7 @@
 Grocery Tracker Program
 
 Project Summary
+
 The Grocery Tracker Program is designed to read a list of grocery items from a file, count their occurrences, and provide useful insights to the user. It allows users to search for a specific item, display all items with their purchase frequencies, and generate a visual histogram of purchases. The program ensures that data is saved in a separate file for future reference.
 
 What I Did Well
